@@ -1,0 +1,1 @@
+import{j as s}from"./react-C9eDEYO-.js";import{H as e,t as r,r as t}from"./index-4H6v0K7N.js";import"./select-CXvnnUVy.js";function c(){return s.jsxs("section",{className:"rac-states",id:"search",children:[s.jsx(e,{icon:s.jsx(r,{}),title:"Search"}),s.jsx(t,{title:"search"})]})}export{c as default};

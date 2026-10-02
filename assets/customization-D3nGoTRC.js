@@ -1,0 +1,1 @@
+import{j as o}from"./react-C9eDEYO-.js";import{P as t,g as r}from"./index-4H6v0K7N.js";import{M as i}from"./motion-D88xQcmQ.js";import"./select-CXvnnUVy.js";const a=r("custom").sub;function e(){return o.jsx("article",{className:"rac-section",id:"custom",children:o.jsx(i,{children:a.map(s=>o.jsx(t,{id:s.id},s.id))})})}export{e as default};

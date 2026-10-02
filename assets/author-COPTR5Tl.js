@@ -1,0 +1,1 @@
+import{j as r}from"./react-C9eDEYO-.js";import{T as t,Q as o}from"./index-4H6v0K7N.js";import"./select-CXvnnUVy.js";const e=()=>r.jsx("article",{className:"rac-author",id:"author",children:r.jsx(t,{icon:r.jsx(o,{}),children:"Author"})});export{e as default};
